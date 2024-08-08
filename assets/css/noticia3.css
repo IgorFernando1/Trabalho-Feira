@@ -1,13 +1,13 @@
 body{
     text-align: justify;
     font-size: 25px;
-    margin:100px
+    margin:400px
 }
  
 .logo{
     height: 99px;
     background-color: rgb(82, 75, 75);
-    margin: -100px -100px 0px -100px
+    margin: -400px -400px 100px -400px
 
 }
 
@@ -17,7 +17,8 @@ body{
 }
 
 .rapaz{
-    margin-left: 0px;
+    margin: 0px 0px 0px 400px
 
 }
+
 
