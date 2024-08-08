@@ -255,7 +255,11 @@ body{
     padding-left: 0px;
  }
 
-.slide_bolinhas {
+.slide_bolinhas height: -355px;
+float: left;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;{
 	position: absolute;
 	width: 200px;
 	height: 20px;
@@ -347,6 +351,22 @@ body{
 	display: none;
 }
 
-@media screen {
+/* CSS media query dentro de um stylesheet */
+@media (max-width: 1080px) {
+	
+	body{
+	   
+
+	}
+	.topo2{
+		height: 99px;
+		width: auto;
+	}
+
+	.slide{
 	
 }
+		
+}
+  
+  
