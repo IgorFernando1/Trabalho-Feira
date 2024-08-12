@@ -144,13 +144,6 @@ body{
 	float: left;
 }
 
-.widget {
-	width: 275px;
-	min-height: 200px;
-	background-color: white;
-	float: right;
-	margin-left: 12px;	
-}
 
 .tome {
 	width: 754px;
@@ -175,19 +168,6 @@ body{
 	padding-bottom: 5px;
 }
 
-.widget_titulo {
-	height: 30px;
-	background-color: #DDD;
-	border-bottom: 1px solid black;
-	line-height: 30px;
-	padding-left: 4px;
-}
-
-.widget_conteudo {
-	text-align: right;
-	padding-top: 5px;
-	padding-bottom: 5px;
-}
 
 .noticia_item {
 	font-size: 14px;
@@ -362,7 +342,7 @@ background-size: cover;
 @media (max-width: 1080px) {
 	
 	body{
-	   background-color: aquamarine;
+	   background-color: rgb(255, 255, 255);
 	   background-size: cover;
 
 	}
